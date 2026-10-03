@@ -1,3 +1,4 @@
+<img width="273" height="903" alt="Screenshot 2026-10-03 102448" src="https://github.com/user-attachments/assets/b4727ee6-a5a2-472d-8eb5-9d83f9a970ae" />
 [Output.pdf](https://github.com/user-attachments/files/32989525/Output.pdf)
 # Scientific Calculator Project
 
