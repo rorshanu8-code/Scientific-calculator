@@ -1,3 +1,4 @@
+[Output.pdf](https://github.com/user-attachments/files/32989525/Output.pdf)
 # Scientific Calculator Project
 
 This is a C++ command-line application that acts as a scientific calculator. 
